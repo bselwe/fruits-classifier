@@ -12,7 +12,7 @@ output_dir = "/output"
 img_width = 100
 img_height = 100
 
-num_classes = 60
+num_classes = 9
 batch_size = 32
 num_epochs = 20
 
