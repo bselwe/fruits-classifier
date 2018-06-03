@@ -35,7 +35,6 @@ def main():
         zoom_range=[1, 1.15],
         rotation_range=15,
         width_shift_range=0.1,
-        brightness_range=[0.8,1.2],
         fill_mode='wrap'
     )
 
